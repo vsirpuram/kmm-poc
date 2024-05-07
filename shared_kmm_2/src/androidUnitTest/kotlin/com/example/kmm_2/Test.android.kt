@@ -1,4 +1,4 @@
-package com.nba.kmm_2
+package com.example.kmm_2
 
 import org.junit.Assert.assertTrue
 import org.junit.Test

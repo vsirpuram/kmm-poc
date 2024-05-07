@@ -13,7 +13,7 @@ kotlin {
             }
         }
     }
-    
+
     val xcf = XCFramework()
     listOf(
         iosX64(),
@@ -38,7 +38,7 @@ kotlin {
 }
 
 android {
-    namespace = "com.nba.kmm_2"
+    namespace = "com.example.kmm_2"
     compileSdk = 34
     defaultConfig {
         minSdk = 24

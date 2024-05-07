@@ -1,4 +1,4 @@
-package com.nba.kmm_2
+package com.example.kmm_2
 
 interface Platform {
     val name: String
